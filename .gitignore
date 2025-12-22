@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Large raw captures (don’t commit)
+data/*.bin
+data/*.wav
+
+# optional
+*.tmp

@@ -1,0 +1,19 @@
+{
+  "iq_file": "data/qpsk_rx.bin",
+  "fc_hz": 915000000.0,
+  "fs_hz": 2000000.0,
+  "burst_start_sample": 778905,
+  "coarse_cfo_hz": -5237.79296875,
+  "fine_cfo_hz": -3949.7196306141846,
+  "cfo_total_hz": -9187.512599364185,
+  "cfo_ppm": -10.0409973763543,
+  "h_hat_mag": 7.751702488913052e-05,
+  "h_hat_phase_deg": -50.356937799493416,
+  "timing_tau_samples": 0,
+  "evm_preamble_pct": 976.628109665261,
+  "evm_sample_pct": 50718.441383420315,
+  "evm_symbol_pct": 992.4971796910266,
+  "payload_ber": 0.503375,
+  "payload_bits_used": 8000,
+  "notes": "Correlation sync + coarse CFO(QPSK^4) + fine CFO slope + single-tap channel + matched filter + timing search + hard-decision BER"
+}

@@ -1,0 +1,9 @@
+fs=2000000
+sym_rate=250000
+sps=8
+beta=0.35
+span_syms=10
+guard_syms=200
+preamble_bits=256 (128 syms)
+payload_syms=4000
+note=int8 interleaved IQ for HackRF-style TX
