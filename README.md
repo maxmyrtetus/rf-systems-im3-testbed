@@ -205,33 +205,24 @@ So roughly:
 - `delta_db = 40.2929 dB` (IM3 ≈ **−40.29 dBc**)
 - Plot: `plots/base_pre0_navg80_im3_psd_locked.png` ![LNA S21 with 30 dB pad](ocs/plots/base_pre0_navg80_im3_psd_locked.png)
 
-<details>
-
 ![Baseline IM3](plots/base_pre0_navg80_im3_psd_locked.png)
 
-</details>
 
 #### SAW only (HackRF → SAW → pads → RTL), pre0
 
 - `delta_db = 39.6334 dB` (IM3 ≈ **−39.63 dBc**)
 - Plot: `plots/saw_pre0_navg80_im3_psd_locked.png`
 
-<details>
-
 ![SAW-only IM3](plots/saw_pre0_navg80_im3_psd_locked.png)
 
-</details>
 
 #### SAW + LaNA (HackRF → SAW → LaNA → pads → RTL), pre0
 
 - `delta_db = 45.2724 dB` (IM3 ≈ **−45.27 dBc**)
 - Plot: `plots/saw_lna_pre0_navg80_im3_psd_locked.png`
 
-<details>
-
 ![SAW + LNA IM3](plots/saw_lna_pre0_navg80_im3_psd_locked.png)
 
-</details>
 
 ---
 
@@ -289,14 +280,12 @@ Debug plots:
 - Correlation / lock view: `plots/qpsk_hw_corr.png`
 - Constellation view: `plots/qpsk_hw_constellation.png`
 
-<details>
-<summary>Show hardware correlation + constellation plots</summary>
+Hardware correlation + constellation plots
 
 ![QPSK HW correlation](plots/qpsk_hw_corr.png)
 
 ![QPSK HW constellation](plots/qpsk_hw_constellation.png)
 
-</details>
 
 What I don’t trust yet:
 
