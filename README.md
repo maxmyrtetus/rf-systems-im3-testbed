@@ -206,7 +206,6 @@ So roughly:
 - Plot: `plots/base_pre0_navg80_im3_psd_locked.png` ![LNA S21 with 30 dB pad](ocs/plots/base_pre0_navg80_im3_psd_locked.png)
 
 <details>
-<summary>Show plot</summary>
 
 ![Baseline IM3](plots/base_pre0_navg80_im3_psd_locked.png)
 
@@ -218,7 +217,6 @@ So roughly:
 - Plot: `plots/saw_pre0_navg80_im3_psd_locked.png`
 
 <details>
-<summary>Show plot</summary>
 
 ![SAW-only IM3](plots/saw_pre0_navg80_im3_psd_locked.png)
 
@@ -230,7 +228,6 @@ So roughly:
 - Plot: `plots/saw_lna_pre0_navg80_im3_psd_locked.png`
 
 <details>
-<summary>Show plot</summary>
 
 ![SAW + LNA IM3](plots/saw_lna_pre0_navg80_im3_psd_locked.png)
 
